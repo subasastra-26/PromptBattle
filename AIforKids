@@ -1,0 +1,183 @@
+{
+  "title": "AI for Kids - 21 Days Transformation",
+"scenes": [
+
+{
+  "scene": 1,
+  "duration": 8,
+  "style": {
+    "visual_style": "cinematic",
+    "color_tone": "warm",
+    "quality": "4K ultra realistic",
+    "environment": "Indian middle-class apartment park",
+    "camera": "slow pan",
+    "depth": "shallow depth of field"
+  },
+  "characters": [
+    "2 Indian young middle-class mothers",
+    "kids scrolling the phone around them"
+  ],
+  "visual_prompt": " 2 Indian young middle-class mothers sitting on a park bench in an apartment complex,talking with concerned expressions, kids scrolling phone blurred in background, evening golden hour lighting, 
+   warm color grading, shallow depth of field, cinematic lighting, slow camera pan, realistic environment, 4K ultra realistic, high detail",
+  "voiceover": {
+    "language": "Tamil",
+    "text": "பசங்க நாள் முழுக்க போன்ல தான்… ரீல்ஸ், கேம்ஸ் பார்த்துக்கிட்டே நேரத்தை வீணாக்கிட்டு இருக்காங்க…",
+    "tone": "concerned, emotional"
+  },
+   "background_audio": "soft emotional music",
+  "transition": "fade to next scene"
+}
+
+{
+  "scene": 2,
+  "duration": 8,
+  "style": {
+    "visual_style": "cinematic",
+    "color_tone": "warm",
+    "quality": "4K ultra realistic",
+    "environment": "apartment outdoor setting",
+    "camera": "slow zoom in",
+    "depth": "shallow depth of field"
+  },
+  "characters": [
+    "2 Indian young mother holding smartphone",
+    " other mother reacting"
+  ],
+  "visual_prompt": "Indian young mother showing smartphone to other mother, other reacting with curiosity and surprise seeing social eagle Instagram ad about AI for kids, outdoor apartment setting, 
+   kids scrolling phone, warm sunlight, shallow depth of field, cinematic lighting, slow zoom in, 4K ultra realistic, high detail",
+  "voiceover": {
+    "language": "Tamil",
+    "text": "இங்க பாரு… Instagramல Social Eagle-ஓட ‘AI for Kids’ program,ரொம்ப useful aa இருக்கும் போல… என் பொண்ணை enroll பண்ணப் போறேன்.…",
+    "tone": "curious, slightly excited"
+  },
+  "subtitle": "Instagram la paatha AI for Kids program!",
+  "background_audio": "soft emotional music continues",
+  "transition": "smooth cut to next scene"
+}
+
+{
+  "scene": 3,
+  "duration": 8,
+  "style": {
+    "visual_style": "cinematic",
+    "color_tone": "warm",
+    "quality": "4K ultra realistic",
+    "environment": "study setup",
+    "camera": "slow pan",
+    "depth": "shallow depth of field"
+  },
+  "characters": [
+    "Indian Girl child",    
+  ],
+  "visual_prompt": "Indian Girl child learning coding, AI, and website building on laptop, focused expression, study table with books, screen glow lighting, cinematic lighting, slow camera pan, warm tone, 4K ultra realistic",
+  "voiceover": {
+    "language": "Tanglish",
+    "text": "21 daysla… coding, AI, website building எல்லாமே step by step ஆக நீங்கள் கற்றுக்கொள்ளலாம்.…",
+    "tone": "happy, excited, child-like"
+  },
+  
+  "background_audio": "inspiring music",
+  "transition": "cut"
+}
+
+{
+  "scene": 4,
+  "duration": 8,
+  "style": {
+    "visual_style": "cinematic",
+    "color_tone": "warm",
+    "quality": "4K ultra realistic",
+    "environment": "learning montage",
+    "camera": "dynamic cuts",
+    "depth": "shallow depth of field"
+  },
+  "characters": [
+    "same Indian girl child"
+  ],
+  "visual_prompt": "same Indian girl child learning and building projects on laptop, showing procedural thinking, problem solving, creating real projects, fast montage style, screen glow lighting, cinematic lighting, 4K ultra realistic",
+  "voiceover": {
+    "language": "Tanglish",
+    "text": "What we learn in this program ?  Procedural Thinking… Fluid Intelligence… practical ah real projects build பண்ணலாம்.",
+    "tone": "highlight, energetic, child-like"
+  },
+  "subtitle": "Thinking + Skills + Real Projects",
+  "background_audio": "upbeat music",
+  "transition": "cut"
+}
+
+
+{
+  "scene": 5,
+  "duration": 8,
+  "style": {
+    "visual_style": "cinematic",
+    "color_tone": "warm with slight futuristic glow",
+    "quality": "4K ultra realistic",
+    "environment": "modern minimal background with digital elements",
+    "camera": "slow zoom in",
+    "depth": "shallow depth of field"
+  },
+  "characters": [
+    "same Indian girl child"
+  ],
+  "visual_prompt": "same Indian girl child holding certificate and showing laptop project, smiling proudly, soft glowing digital UI elements in background, modern clean environment, cinematic lighting, shallow depth of field, slow zoom in, warm tone with slight futuristic glow, 4K ultra realistic",
+  "voiceover": {
+    "language": "Tamil",
+    "text": "21 நாளில்… AI நீங்களும் strong ஆக கற்றுக்கொள்ளலாம்… course certification-மும் கிடைக்கும்!",
+    "tone": "confident, happy, child-friendly"
+  },
+  "background_audio": "inspiring uplifting music",
+  "transition": "fade"
+}
+
+
+{
+  "scene": 6,
+  "duration": 8,
+  "style": {
+    "visual_style": "cinematic",
+    "color_tone": "warm with slight futuristic glow",
+    "quality": "4K ultra realistic",
+    "camera": "slow zoom in",
+    "depth": "shallow depth of field"
+  },
+  "characters": [
+    "same Indian girl child"
+  ],
+  "visual_prompt": "same Indian girl child standing with soft glowing digital UI elements around, inspirational mood, cinematic lighting, shallow depth of field, slow zoom in, warm tone with slight futuristic glow, minimal clean background, 4K ultra realistic",
+  "voiceover": {
+    "language": "tanglish",
+    "text": "Future ah use மட்டும் இல்ல,அதை உருவாக்கவும் கற்றுக்கொள்ளுங்கள்…!",
+    "tone": "inspiring, motivational,child-friendly"
+  },
+    "background_audio": "inspiring cinematic music",
+  "transition": "fade out"
+}
+
+{
+  "scene": 7,
+  "duration": 8,
+  "style": {
+    "visual_style": "cinematic",
+    "color_tone": "warm",
+    "quality": "4K ultra realistic",
+    "environment": "minimal clean background with UI elements",
+    "camera": "slow zoom in",
+    "depth": "shallow depth of field"
+  },
+  "characters": [
+    "Same Indian girl child"
+  ],
+  "visual_prompt": "same Indian girl child standing in a minimal modern background,smiling and giving thumbs up, then pointing towards a glowing 'Enroll Now' button on screen, 
+   soft light animation, cinematic lighting, warm tone, shallow depth of field, slow zoom in, high detail, 4K ultra realistic",
+  "voiceover": {
+    "language": "Tamil",
+    "text": "இன்னும் ஏன் wait பண்ணுறீங்க? உடனே கீழே உள்ள பட்டனை கிளிக் செய்து, Social Eagle program-ல் உங்கள் குழந்தையை enroll செய்யுங்கள்.",
+    "tone": "friendly, encouraging, child-friendly"
+  },  
+  "background_audio": "uplifting inspiring music",
+  "transition": "end screen fade"
+}
+
+ ]
+}
